@@ -25,6 +25,17 @@ mais objetivo possível, tanto na informação, quanto no código.
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
 
+## Imagens
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/brunoqualhato/status_corona/master/screens/cap1.png"></td>
+  <tr>
+    
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/brunoqualhato/status_corona/master/screens/cap2.png"></td>
+  <tr>
+</table>
+
 ## Autor
 
 <table>
