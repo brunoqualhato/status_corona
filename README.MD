@@ -14,7 +14,7 @@ mais objetivo possível, tanto na informação, quanto no código.
 
 ## API 🎯
 
-- [SITE sitecovid19](https://github.com/devarthurribeiro/covid19-brazil-api/)
+- [covid19-brazil-api](https://github.com/devarthurribeiro/covid19-brazil-api/)
 
 ## Docs da API 📄
 
