@@ -29,9 +29,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 <table>
   <tr>
     <th align="center"><img src="https://raw.githubusercontent.com/brunoqualhato/status_corona/master/screens/cap1.png"></th>
-  <tr>
-    
-  <tr>
     <th align="center"><img src="https://raw.githubusercontent.com/brunoqualhato/status_corona/master/screens/cap2.png"></th>
   <tr>
 </table>
