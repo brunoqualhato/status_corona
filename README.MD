@@ -28,11 +28,11 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Imagens
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/brunoqualhato/status_corona/master/screens/cap1.png"></td>
+    <th align="center"><img src="https://raw.githubusercontent.com/brunoqualhato/status_corona/master/screens/cap1.png"></th>
   <tr>
     
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/brunoqualhato/status_corona/master/screens/cap2.png"></td>
+    <th align="center"><img src="https://raw.githubusercontent.com/brunoqualhato/status_corona/master/screens/cap2.png"></th>
   <tr>
 </table>
 
